@@ -1,0 +1,7 @@
+1. find and replace all & < and > symbols
+2. Find: ^.+$
+Replace with: <movie>\0</movie>
+3. Find: ^.+\t
+Replace with: <title>\0</title>
+Outputs <title><movie> .... </title><movie> + It does not stop after just one tab.
+???? I do not understand this
