@@ -1,5 +1,5 @@
 ﻿<xml>
-<p>The Blithedale Romance</p>
+The Blithedale Romance
 
 <p>by</p>
 
