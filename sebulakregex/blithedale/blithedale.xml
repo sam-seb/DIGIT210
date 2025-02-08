@@ -1,14 +1,9 @@
 ﻿<xml>
 <p>The Blithedale Romance</p>
 
-<p>by</p>
+<author>Nathaniel Hawthorne</author>
 
-<p>Nathaniel Hawthorne</p>
-
-<p>
-Table of Contents</p>
-
-<p>      I.  OLD MOODIE
+<toc>      I.  OLD MOODIE
      II.  BLITHEDALE
     III.  A KNOT OF DREAMERS
      IV.  THE SUPPER-TABLE
@@ -36,7 +31,7 @@ Table of Contents</p>
    XXVI.  ZENOBIA AND COVERDALE
   XXVII.  MIDNIGHT
  XXVIII.  BLITHEDALE PASTURE
-   XXIX.  MILES COVERDALE'S CONFESSION</p>
+   XXIX.  MILES COVERDALE'S CONFESSION</toc>
 
 
 <chapter><title>I. OLD MOODIE</title>

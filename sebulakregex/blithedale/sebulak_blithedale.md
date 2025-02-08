@@ -7,3 +7,4 @@ Not stumped anymore
 4. Find: `(<p>)([IVX]+\..+)(</p>)`, Replace: `<title>\2</title>`
 5. Find: `<title>`, Replace: `</chapter>\n<chapter><title>`
 6. Find: `(")(.+?)(")`, Replace: `<quote>\2</quote>`
+7. cleanup :)
